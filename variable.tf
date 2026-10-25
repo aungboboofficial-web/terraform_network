@@ -6,7 +6,7 @@ variable "region" {
 
 variable "prefix" {
   description = "prefix for resource names"
-  default     = "bobo"
+  default     = "bb"
 }
 variable "frontend_prefix" {
   description = "prefix for resource names"
